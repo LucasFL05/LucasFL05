@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an intern in the IT department of Regional Superintendence of the National Institute of Social Security in Southeast I. <br>I'm studying Systems Analysis and Development at UniPaulistana. <br>I want to be a back-end programmer in the future.
+I'm an intern in the IT department of Regional Superintendence of the National Institute of Social Security in Southeast I. <br>Systems Analysis and Development student at UniPaulistana. <br>Java back-end programmer.
 
 
 ## 🌐 Socials:
