@@ -1,7 +1,7 @@
 # 💫 About Me:
 I hold a degree in Systems Analysis and Development from UniPaulistana and currently work as an IT Assistant at Farina Soluções Financeiras.
 Previously, I interned at the Southeast Regional Superintendence of the National Institute of Social Security (INSS), where I gained valuable hands-on experience.
-I have experience in back-end development with Java and Spring Boot, front-end with Angular, API integration, relational databases, and applying best practices in software development..
+I have experience in back-end development with Java and Spring Boot, front-end with Angular, API integration, relational databases, and applying best practices in software development.
 
 
 ## 🌐 Socials:
